@@ -4,17 +4,17 @@ git clone https://github.com/YourUsername/my-profile.git
 cd my-profile
 nano README.md
 <!-- ====== HERO / HEADER ====== -->
-<h1 align="center">Hi, I’m {{Becky Namarome}} 👋</h1>
+<h1 align="center">Hi, I’m Becky Namarome 👋</h1>
 <p align="center">
   <b>ALX Software Web Developer Learner • CRM Specialist • Web Optimization Enthusiast</b><br/>
-  <i>Helping clients optimize websites and experiences — with a builder’s mindset.</i>
+  <i>Helping clients optimize websites and experiences with a builder’s mindset.</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/{{your-username}}?tab=repositories"><img alt="GitHub followers" src="https://img.shields.io/github/followers/{{your-username}}?style=flat"></a>
-  <a href="https://www.linkedin.com/in/{{your-linkedin}}/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
-  <a href="mailto:{{your-email}}"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username={{your-username}}&style=flat"/>
+  <a href="https://github.com/{{your-username}}?tab=repositories"><img alt="GitHub followers" src="https://img.shields.io/github/followers/{{beckynamarome}}?style=flat"></a>
+  <a href="https://www.linkedin.com/in/{{[your-linkedin](https://www.linkedin.com/in/becky-namarome-/)}}/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+  <a href="mailto:{{namaromebecky@gmail.com}}"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username={beckynamarome}}&style=flat"/>
 </p>
 
 <!-- ====== QUICK BLURB ====== -->
@@ -37,7 +37,7 @@ nano README.md
 <!-- ====== VALUES / LEARNING PRINCIPLES ====== -->
 <h2>My Learning Operating System</h2>
 <ul>
-  <li><b>Consistency:</b> 10 hrs/week of focused study & practice.</li>
+  <li><b>Consistency:</b> 20 hrs/week of focused study & practice.</li>
   <li><b>Practice:</b> Ship small projects after every module.</li>
   <li><b>Patience:</b> Treat bugs as learning opportunities.</li>
   <li><b>Growth Mindset:</b> Ask, research, iterate.</li>
@@ -74,24 +74,24 @@ nano README.md
     <td>
       <h3>🗂️ Project Manager Lite</h3>
       <p>Boards, tasks, deadlines, and labels. Built with React + local storage (then upgrade to API).</p>
-      <p><a href="https://github.com/{{your-username}}/project-manager-lite">Repo</a> • <a href="https://{{your-demo-url}}">Live</a></p>
+      <p><a href="https://github.com/{{beckynamarome}}/project-manager-lite">Repo</a> • <a href="https://{{your-demo-url}}">Live</a></p>
     </td>
     <td>
       <h3>💬 Chat App</h3>
       <p>Rooms, typing indicators, presence. WebSocket or Firebase. Clean UI & auth.</p>
-      <p><a href="https://github.com/{{your-username}}/chat-app">Repo</a> • <a href="https://{{your-demo-url}}">Live</a></p>
+      <p><a href="https://github.com/{{beckynamarome}}/chat-app">Repo</a> • <a href="https://{{(https://app.savvydigitalmarketing.ai/v2/location/EfGwZu68yhK3lDuXDs7n/funnels-websites/chat-widget/builder/687166191ef77e482d667773)}}">Live</a></p>
     </td>
   </tr>
   <tr>
     <td>
       <h3>🛒 Mini Commerce</h3>
       <p>Product listing, cart, checkout flow. Stripe test mode (later).</p>
-      <p><a href="https://github.com/{{your-username}}/mini-commerce">Repo</a> • <a href="https://{{your-demo-url}}">Live</a></p>
+      <p><a href="https://github.com/{{beckynamarome}}/mini-commerce">Repo</a> • <a href="https://{{your-demo-url}}">Live</a></p>
     </td>
     <td>
       <h3>🤖 AI Assistant</h3>
       <p>Text helper, summarizer, or smart search. Focus on UX and reliability.</p>
-      <p><a href="https://github.com/{{your-username}}/ai-assistant">Repo</a> • <a href="https://{{your-demo-url}}">Live</a></p>
+      <p><a href="https://github.com/{{beckynamarome}}/ai-assistant">Repo</a> •
     </td>
   </tr>
 </table>
@@ -108,25 +108,23 @@ nano README.md
 <h2>Learning Journal</h2>
 <p>I document what I learn each week:</p>
 <ul>
-  <li><a href="https://github.com/{{your-username}}/learning-journal">Learning Journal Repo</a></li>
+  <li><a href="https://github.com/{{beckynamarome}}/learning-journal">Learning Journal Repo</a></li>
   <li>Highlights: {{Week #}} – {{Topic}} → {{One-line takeaway}}</li>
 </ul>
 
 <!-- ====== GITHUB STATS (OPTIONAL CARDS) ====== -->
 <h2>GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username={{your-username}}&show_icons=true&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={{your-username}}" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username={{beckynamarome}}&show_icons=true&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user={{beckynamarome}}" alt="GitHub Streak"/>
 </p>
 
 <!-- ====== CONTACT ====== -->
 <h2>Let’s Connect</h2>
 <ul>
-  <li>Portfolio: <a href="https://{{your-portfolio}}">https://{{your-portfolio}}</a></li>
-  <li>Email: <a href="mailto:{{your-email}}">{{your-email}}</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/{{your-linkedin}}/">@{{your-linkedin}}</a></li>
-  <li>Twitter/X: <a href="https://twitter.com/{{your-twitter}}">@{{your-twitter}}</a></li>
-</ul>
+  <li>Portfolio: <a href="https://{{(https://docs.google.com/presentation/d/1uh_8Gg_-QO9xGGV7fIDBsJ0ZhIZgRgouC8vdUWNkmV8/edit?usp=drive_link)}}">https://{{https://docs.google.com/presentation/d/1uh_8Gg_-QO9xGGV7fIDBsJ0ZhIZgRgouC8vdUWNkmV8/edit?usp=drive_link}}</a></li>
+  <li>Email: <a href="mailto:{{namaromebecky@gmail.coml}}">{{namaromebecky@gmail.com}}</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/{{https://www.linkedin.com/in/becky-namarome-/}}/">@{{https://www.linkedin.com/in/becky-namarome-/}}</a></li>
 
 <!-- ====== WORKING TOGETHER ====== -->
 <h2>How I Work</h2>
