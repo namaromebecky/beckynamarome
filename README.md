@@ -1,6 +1,4 @@
 # beckynamarome
-cd my-profile
-nano README.md
 <!-- ====== HERO / HEADER ====== -->
 <h1 align="center">Hi, I’m Becky Namarome 👋</h1>
 <p align="center">
