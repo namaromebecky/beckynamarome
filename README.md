@@ -1,6 +1,6 @@
 # beckynamarome
 My GitHub profile README template showcasing my projects, skills, and goals
-git clone https://github.com/YourUsername/my-profile.git
+git clone https://github.com/beckynamarome/my-profile.git
 cd my-profile
 nano README.md
 <!-- ====== HERO / HEADER ====== -->
