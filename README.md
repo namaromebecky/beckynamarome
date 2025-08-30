@@ -4,7 +4,7 @@ git clone https://github.com/YourUsername/my-profile.git
 cd my-profile
 nano README.md
 <!-- ====== HERO / HEADER ====== -->
-<h1 align="center">Hi, I’m {{Your Name}} 👋</h1>
+<h1 align="center">Hi, I’m {{Becky Namarome}} 👋</h1>
 <p align="center">
   <b>ALX Software Web Developer Learner • CRM Specialist • Web Optimization Enthusiast</b><br/>
   <i>Helping clients optimize websites and experiences — with a builder’s mindset.</i>
